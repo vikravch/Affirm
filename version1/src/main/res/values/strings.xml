@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProviderLoaderAsyncTask</string>
+    <string name="Load_list">Load list</string>
+    <string name="show_image">Show Image</string>
+    <string name="str_Insert">Insert</string>
+    <string name="content_provider">com.kistudio.ua.affirmation</string>
+    <string name="content_provider_class">com.kistudio.ua.affirmation.MyContentProvider</string>
+    <string name="button_update">Update</string>
+</resources>
